@@ -18,13 +18,13 @@
             }
         ]
     },
-    "icon":"icon/dcIcon.png",
+    "icon":"icon/dcLogo.png",
     "author": {
         "name":"Dc Dev",
         "email":"dcdevtk@gmail.com",
         "url":"https://dcdev.tk"
     },
-    "repositorio":{
+    "repository":{
         "url":"https://github.com/DcDevRep/dcdevthemered.git",
         "type":"git"
     },
