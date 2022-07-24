@@ -1,0 +1,21 @@
+{
+    "name": "dcdevthemeRed",
+    "displayName": "DcDevTheme",
+    "description": "Tema red for Vs Code",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.69.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "DcDevThemeRed",
+                "uiTheme": "vs-dark",
+                "path": "./themes/DcDevThemeRed-color-theme.json"
+            }
+        ]
+    }
+}
